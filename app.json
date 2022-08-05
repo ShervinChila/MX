@@ -6,7 +6,7 @@
 		"subtitles",
 		"muxing"
 	],
-	"repository": "https://github.com/ShervinChila/sub-muxer",
+	"repository": "https://github.com/ShervinChila/MX",
 	"formation": {
 		"worker": {
 			"quantity": 1,
